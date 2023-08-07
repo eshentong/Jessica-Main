@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Analytics Project#1</b>
+- <b>Netflix Project</b>
   - [Project#1](https://github.com/eshentong/AnalyticsProject-1/tree/main)
 - <b>Shell#2</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
