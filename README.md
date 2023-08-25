@@ -3,11 +3,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Netflix Project</b>
-  - [Project#1](https://github.com/eshentong/AnalyticsProject-1/tree/main)
-- <b>Shell#2</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>shell#3</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project#1 using SQL](https://github.com/eshentong/AnalyticsProject-1/tree/main)
+- <b>Mini Projects</b>
+  - [Satisfaction score using Python's matplotlib.pyplot](https://github.com/eshentong/satisfaction_data)
 
 
 <h2> 🤳 Connect with me:</h2>
