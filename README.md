@@ -5,7 +5,7 @@
 - <b>Netflix Project</b>
   - [Project#1 using SQL](https://github.com/eshentong/AnalyticsProject-1/tree/main)
 - <b>Mini Projects</b>
-  - [Satisfaction score using Python's matplotlib.pyplot](https://github.com/eshentong/satisfaction_data)
+  - [Satisfaction score using Python](https://github.com/eshentong/satisfaction_data)
 
 
 <h2> 🤳 Connect with me:</h2>
