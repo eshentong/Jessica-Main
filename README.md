@@ -1,4 +1,4 @@
-# Hi,I'm Jessica! a Programmer, Data Analyst Professional
+# Hi,I'm Jessica! a Business/ Data Analytics Professional
 
 ### 👨‍💻 Data Analytics Projects:
  
