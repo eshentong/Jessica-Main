@@ -1,4 +1,4 @@
-# Hi! I'm Jessica, a Data Analytics Professional
+# Hi! I'm Jessica, a Data Analytics Professional :D
 
 ### Data Analytics Projects:
 
