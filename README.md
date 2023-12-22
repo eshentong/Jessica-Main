@@ -1,4 +1,4 @@
-# Hi,I'm Jessica! a Business/ Data Analytics Professional
+# Hi! I'm Jessica, a Data Analytics Professional
 
 ## 👨‍💻 Data Analytics Projects:
 
@@ -15,6 +15,6 @@
   - **SQL: April, 2023** [Project#1 using SQL](https://github.com/eshentong/AnalyticsProject-1/tree/main)
 
 
- #### Connect with me:
-[Linkedin](https://www.linkedin.com/in/jessica-tong-233350157/)
+ ## Connect with me:
+[Linkedin](https://www.linkedin.com/in/jessicatong1/)
 
