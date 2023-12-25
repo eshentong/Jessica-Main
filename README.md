@@ -17,5 +17,6 @@
   - *Python (Oct, 2023)* : [Re-admitted patient prediction](https://github.com/eshentong/healthcare-readmission/tree/main)
 
  ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/jessicatong1/)
+[Linkedin](https://www.linkedin.com/in/jessicatong1/)\
+[Personal Website](https://jessicaeshentong.wixsite.com/portfolio)
 
