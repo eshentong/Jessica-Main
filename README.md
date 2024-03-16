@@ -2,6 +2,9 @@
 
 ### Data Analytics Projects:
 
+- <b> Statistical Analysis </b>
+  - Python (OLS, Stargazer, feols): [Price Salience Analysis](https://github.com/eshentong/BA830-Experiment/tree/main)
+
 - <b> E-commerce Analysis 💅🏼 </b>
   - *SQL (Dec, 2023)* : [E-commerce Business Analysis](https://github.com/eshentong/E-Commerce-Analysis/tree/main)
 
