@@ -1,9 +1,8 @@
 # Hi! I'm Jessica, a Data Analytics Professional :D
 
-### 
-
 ### Data Analytics Projects:
-
+- <b> ESG Analysis </b>
+  - * Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data] ()
 - <b> Big Data Project </b>
   - *Pyspark (Spring 2024)* : [Stack Overflow Business Analysis](https://github.com/eshentong/pyspark)
 
