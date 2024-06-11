@@ -2,7 +2,7 @@
 
 ### Data Analytics Projects:
 - <b> ESG Analysis </b>
-  - * Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data] ()
+  - *Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data](https://github.com/eshentong/operations-analysis)
 - <b> Big Data Project </b>
   - *Pyspark (Spring 2024)* : [Stack Overflow Business Analysis](https://github.com/eshentong/pyspark)
 
