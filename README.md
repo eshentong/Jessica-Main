@@ -1,13 +1,13 @@
 # Hi! I'm Jessica, a Data Analytics Professional :D
 
 ### Data Analytics Projects:
-- <b> ESG Analysis </b>
+- <b> ESG Analysis 👩🏻‍⚖️ </b>
   - *Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data](https://github.com/eshentong/operations-analysis)
-- <b> Big Data Project </b>
+- <b> Big Data Project 🐘</b>
   - *Pyspark (Spring 2024)* : [Stack Overflow Business Analysis](https://github.com/eshentong/pyspark)
 
-- <b> Statistical Analysis </b>
-  - *Python (OLS, Stargazer, feols) (Spring 2024)* : [Price Salience Analysis](https://github.com/eshentong/BA830-Experiment/tree/main)
+- <b> Statistical Analysis 🏠</b>
+  - *Python (OLS, Stargazer, feols) (Spring 2024)* : [Price Salience Analysis on Boston Rental Market](https://github.com/eshentong/BA830-Experiment/tree/main)
 
 - <b>Netflix Project 🎬 </b>
   - *SQL (Fall 2023)* : [Project#1 using SQL](https://github.com/eshentong/AnalyticsProject-1/tree/main)
