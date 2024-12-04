@@ -1,5 +1,8 @@
 # Hi! I'm Jessica, a Data Analytics Professional :D
 
+### Data Engineering Project:
+- <b> Text to SQL </b>
+- *Python,SQL (Fall 2024)*:
 ### Data Analytics Projects:
 - <b> ESG Analysis 👩🏻‍⚖️ </b>
   - *Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data](https://github.com/eshentong/operations-analysis)
