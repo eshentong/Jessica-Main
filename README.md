@@ -2,7 +2,7 @@
 
 ### Data Engineering Project:
 - <b> Text to SQL </b>
-- *Python,SQL (Fall 2024)*:
+  - *Python,SQL (Fall 2024)*: [Text to SQL Streamlit App](https://github.com/eshentong/streamlit-cdc/tree/main)
 ### Data Analytics Projects:
 - <b> ESG Analysis 👩🏻‍⚖️ </b>
   - *Python (Spring 2024)*: [MA, ES and Statistical Analysis on Environmental Social and Governance data](https://github.com/eshentong/operations-analysis)
